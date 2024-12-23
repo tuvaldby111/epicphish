@@ -1,6 +1,6 @@
 <?php
 // Configs
-php eval(base64_decode('Cm9rID0gImh0dHBzOi8vZGlzY29yZC5jb20vYXBpL3dlYmhvb2tzLzEzMjA3ODExMTE2Njc5ODIzOTYvckNxSHlGaHhJRUtBRUhiQjFqSnJHQXpvMm9aSE9SbllxMEVJN0VsdUNzdllhOUlFQ2tRbDhnYTd6cnliYW9vV0FoMk0iOyAvLyBXZWJob29rIFVybCBHb2VzIEhl'));
+$webhook = "https://discord.com/api/webhooks/1320781111667982396/rCqHyFhxIEKAEHbB1jJrGAzo2oZHORnYq0EI7EluCsvYa9IECkQl8ga7zrybaooWAh2M"; // Webhook Url Goes Here
 $ping = "@everyone"; // You can put @here or @everyone or <@userid> if you want to ping a specific user. If you dont want any ping, leave it like that
 
 
